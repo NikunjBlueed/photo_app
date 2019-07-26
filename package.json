@@ -28,6 +28,7 @@
     "cordova-ios": "5.0.1",
     "cordova-plugin-ionic": "^5.4.0",
     "core-js": "^2.5.4",
+    "native-run": "^0.2.8",
     "rxjs": "~6.5.1",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.29"
